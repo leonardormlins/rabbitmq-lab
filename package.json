@@ -1,0 +1,12 @@
+{
+  "name": "rabbitq-lab",
+  "version": "1.0.0",
+  "description": "A simple implementation using messaging",
+  "main": "index.js",
+  "repository": "https://github.com/leonardormlins/rabbitq-lab",
+  "author": "Leonardo Lins",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  }
+}
