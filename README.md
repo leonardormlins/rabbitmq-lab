@@ -1,2 +1,2 @@
-# rabbitq-lab
+# rabbitmq-lab
 Created to study more about messaging.
